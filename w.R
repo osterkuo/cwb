@@ -31,3 +31,6 @@ boxplot(des[,c(3,4,5)],ylab="®ð·Å" ,xlab="201712", las=1)
 w2017=rbind(jul,aug,sep,oct,nov,dec)
 table(w2017$label)
 plot(®ð·Å~2017,las=1)
+j=c("tokyo","osaka")
+j
+mode(j)
